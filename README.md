@@ -1,2 +1,2 @@
 # Codecademy-MurderMystery-Capstone-Project
-Jupyter notebook and .py file for Python Intensive Capstone project
+Final capstone project for Python Programming Intensive Course.
